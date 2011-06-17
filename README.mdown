@@ -1,0 +1,10 @@
+Installation
+============
+
+Copy to ~/Library/Application Support/Apple/Developer Tools/Project Templates/
+
+
+Usage
+=====
+
+See the Plugin Development Reference: http://projects.skurfer.com/QuicksilverPlug-inReference.mdown

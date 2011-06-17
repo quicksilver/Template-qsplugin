@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>This project builds a Quicksilver plug-in.</string>
+	<key>FilesToMacroExpand</key>
+	<array>
+		<string>«PROJECTNAMEASIDENTIFIER»_Prefix.pch</string>
+		<string>«PROJECTNAMEASIDENTIFIER».h</string>
+		<string>«PROJECTNAMEASIDENTIFIER».m</string>
+		<string>«PROJECTNAMEASIDENTIFIER»Source.h</string>
+		<string>«PROJECTNAMEASIDENTIFIER»Source.m</string>
+		<string>«PROJECTNAMEASIDENTIFIER»Action.h</string>
+		<string>«PROJECTNAMEASIDENTIFIER»Action.m</string>
+		<string>project.pbxproj</string>
+		<string>Info.plist</string>
+		<string>English.lproj/InfoPlist.strings</string>
+	</array>
+	<key>FilesToRename</key>
+	<dict>
+		<key>MyAction.h</key>
+		<string>«PROJECTNAMEASIDENTIFIER»Action.h</string>
+		<key>MyAction.m</key>
+		<string>«PROJECTNAMEASIDENTIFIER»Action.m</string>
+		<key>MyPlugIn.h</key>
+		<string>«PROJECTNAMEASIDENTIFIER».h</string>
+		<key>MyPlugIn.m</key>
+		<string>«PROJECTNAMEASIDENTIFIER».m</string>
+		<key>MyPlugIn_Prefix.pch</key>
+		<string>«PROJECTNAMEASIDENTIFIER»_Prefix.pch</string>
+		<key>MySource.h</key>
+		<string>«PROJECTNAMEASIDENTIFIER»Source.h</string>
+		<key>MySource.m</key>
+		<string>«PROJECTNAMEASIDENTIFIER»Source.m</string>
+	</dict>
+</dict>
+</plist>
