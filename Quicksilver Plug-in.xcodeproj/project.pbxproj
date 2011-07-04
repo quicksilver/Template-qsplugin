@@ -244,6 +244,7 @@
 		7F6B3EF0085CE8DF000735A8 /* Development */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				MACOSX_DEPLOYMENT_TARGET = 10.5;
 				SDKROOT = macosx;
 				VALID_ARCHS = "i386 ppc x86_64";
@@ -258,8 +259,8 @@
 					i386,
 				);
 				GCC_MODEL_TUNING = G5;
-				MACOSX_DEPLOYMENT_TARGET = 10.4;
-				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.4u.sdk";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				SDKROOT = macosx;
 			};
 			name = Release;
 		};
