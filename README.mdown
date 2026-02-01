@@ -7,4 +7,4 @@ Copy to ~/Library/Application Support/Apple/Developer Tools/Project Templates/
 Usage
 =====
 
-See the Plugin Development Reference: http://projects.skurfer.com/QuicksilverPlug-inReference.mdown
+See the Plugin Development Reference: https://github.com/quicksilver/PluginDevelopmentReference/blob/main/QuicksilverPlug-inReference.md
